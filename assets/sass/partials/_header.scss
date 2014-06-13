@@ -1,4 +1,16 @@
 // global header styles
-#header {
+$logo-image: url('http://placehold.it/350x150');
 
+#header {
+ 
+}
+.header-logo {
+	background: $logo-image;
+	height: 100px;
+	width: 350px;
+	float: left;
+	clear: both;
+}
+.hero-banner {
+	clear: both;
 }

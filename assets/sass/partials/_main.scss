@@ -6,12 +6,21 @@ body {
 body{
 
 }
+//header, footer, Container Styles
 
-.container,
+@mixin elementWidth($maxWidth, $margin, $padding){
+    max-width: $maxWidth;
+    margin: $margin auto;
+    padding: $padding;
+}
+
+.container {
+    
+    @include elementWidth($maxWidth:100%, $margin:0, $padding:20px); 
+}
 #header,
 #footer {
-    max-width: 85%;
-    margin: 0 auto;
+    @extend .container;
 }
 
 // main container
