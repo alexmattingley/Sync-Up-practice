@@ -7,11 +7,11 @@
     text-transform: uppercase;
     font-weight: 800;
     @include font-size(18);
-    color: $dark-grey;
-    background: none;
-    border: 3px solid $dark-grey;
+    // color: $dark-grey;
+    // background: none;
+    // border: 3px solid $dark-grey;
 
-    padding: 0em 2em;
+    padding: 0em 1em;
     line-height: 2em;
 
     &[data-scroll-to="top"] {
@@ -35,11 +35,31 @@
             visibility: visible;
         }
     }
+    &.white-bg {
+        background: $text-color-dos;
+        color: $theme-color;
+        border: 3px solid $theme-color;
+        &:hover {
+            background: $theme-color;
+            color: $text-color-dos;
+            border: 3px solid $theme-color;
+        }
+    }
+    &.blue-bg {
+        background: $theme-color;
+        color: $text-color-dos;
+        border: 3px solid $text-color-dos;
+        &:hover{
+            background: $text-color-dos;
+            color: $theme-color;
+            border: 3px solid $text-color-dos;
+        }
+    }
 
     &:hover {
-        background: $dark-grey;
-        border-color: $dark-grey;
-        color: #fff;
+        // background: $dark-grey;
+        // border-color: $dark-grey;
+        // color: #fff;
     }
 
     &.invert {

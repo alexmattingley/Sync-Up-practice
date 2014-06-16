@@ -1,0 +1,7 @@
+@mixin mobileCenter() {
+	margin: $margin-section auto;
+	width: 90%;
+	> * {
+		text-align: center;
+	}
+}

@@ -1,0 +1,24 @@
+.consulting-icon {
+	background: url('http://placehold.it/200x200');
+	width: 200px;
+	height: 200px;
+	display: block;
+	margin: $margin-section auto;
+}
+
+.educating-icon, .coaching-icon, .speaking-icon {
+		@extend .consulting-icon;
+} //better way to do this?
+
+.four-column-mixed {
+	@include mobileCenter;
+}
+// .four-column-mixed {
+// 	> .col-4 {
+// 		.btn {
+// 			background: $theme-color;
+// 			color: $text-color-dos;
+			
+// 		}
+// 	}
+// }

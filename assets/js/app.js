@@ -3,23 +3,23 @@
 	/* jshint devel:true */
 	'use strict';
 
-	window.THEMENAME = {};
+	window.syncUp = {};
 
-	var SHORTNAME = window.THEMENAME;
+	var SCU = window.syncUp;
 
 	var $window = $(window);
 
-	SHORTNAME.init = function(){
-		SHORTNAME.setElements();
-		SHORTNAME.basics();
-		SHORTNAME.vertAlign();
+	SCU.init = function(){
+		SCU.setElements();
+		SCU.basics();
+		SCU.vertAlign();
 	};
 
-	SHORTNAME.setElements = function(){
-		SHORTNAME.elems				= {};
+	SCU.setElements = function(){
+		SCU.elems				= {};
 	};
 
-	SHORTNAME.basics = function(){
+	SCU.basics = function(){
 
 		// jQuery Lazyload
 		$('img.lazy').lazyload({
@@ -38,10 +38,10 @@
 			offset: 79, // 80-1, header height on scroll
 			easing: 'easeInOutCubic'
 		});
-
+		var nav = responsiveNav(".nav-collapse");
 	};
 
-	SHORTNAME.vertAlign = function() {
+	SCU.vertAlign = function() {
 		// Vertical Align
 		var vertAlign = function() {
 			$('.valign').each(function() {
@@ -54,7 +54,7 @@
 
 	$(document).ready(function(){
 
-		SHORTNAME.init();
+		SCU.init();
 
 	});//close document ready
 

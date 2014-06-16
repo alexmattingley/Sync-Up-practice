@@ -3,7 +3,8 @@ $super-width: em(1280); // 80em
 $base-width: em(960); // 60em
 $tablet-width: em(720); // 45em
 $mobile-landscape-width: em(480); // 30em
-$mobile-portrait-width: em(320); // 20em
+$mobile-portrait-width: em(350); // 20em
+$margin-section: 30px;
 
 // Base
 $rem-base: 16px !default;
@@ -55,6 +56,8 @@ $dark-grey: #333;
 // theme colors
 $theme-color: blue; // null
 $accent-color: darken($theme-color, 10); // That is, 10% darker than the theme-color.
+$text-color-default: black;
+$text-color-dos: white;
 
 // Animation Variables
 $duration: .35s; // was .15, upped for hero transition - or change via js
