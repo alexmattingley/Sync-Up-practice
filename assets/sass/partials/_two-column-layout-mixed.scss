@@ -1,10 +1,31 @@
+.two-column-layout-mixed {
+	@include breakpoint(tablet) {
+		padding-left: 40px;
+	}
+}
+
 .left-col-img {
 	background: url('http://placehold.it/300x300');
 	width: 300px;
 	height: 300px;
 	display: block;
 	margin: $margin-section auto;
+	@include breakpoint(tablet) {
+		float: left;
+		margin: 0 10px;
+		@include breakpoint(desktop) {
+			background: url('http://placehold.it/400x400');
+			width: 400px;
+			height: 400px;
+			margin: 0 10%;
+		}
+	}
 }
 .right-col-text {
 	@include mobileCenter;
+	>* {
+		@include breakpoint(tablet) {
+			text-align: left;
+		}
+	}
 }

@@ -1,3 +1,14 @@
 .two-column-text-only {
 	@include mobileCenter;
+	clear: both;
+	.left-column-text {
+		@include breakpoint(tablet) {
+			float: left;
+			width: 40%;
+		}
+	}
+	.right-column-text {
+		@include breakpoint(tablet) {
+		}
+	}	
 }
