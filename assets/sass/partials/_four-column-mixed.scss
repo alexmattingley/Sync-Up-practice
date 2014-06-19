@@ -12,13 +12,20 @@
 
 .four-column-mixed {
 	@include mobileCenter;
+	@include breakpoint(tablet) {
+		text-align: center;
+	}
+	@include breakpoint(desktop) {
+		width: 90%;
+	}
+	li {
+		@include breakpoint(tablet) {
+			display: inline-block;
+			width: 40%;
+			vertical-align: top;
+		}
+		@include breakpoint(desktop) {
+			width: 23%;
+		}
+	}	
 }
-// .four-column-mixed {
-// 	> .col-4 {
-// 		.btn {
-// 			background: $theme-color;
-// 			color: $text-color-dos;
-			
-// 		}
-// 	}
-// }

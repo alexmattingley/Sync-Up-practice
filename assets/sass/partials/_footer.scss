@@ -1,4 +1,14 @@
 // global footer styles
+footer {
+	clear: both;
+	text-align: center;
+	h3 {
+		color: $theme-color;
+	}
+	a {
+		color: $text-color-three;
+	}
+}
 .footer-logo {
 	background: $logo-image;
 	height: 100px;

@@ -1,10 +1,42 @@
+.pdf-slider {
+	margin: $margin-section auto;
+	@include breakpoint(tablet) {
+		width: 90%;
+	}
+}
+
 .left-column-text {
 	@include mobileCenter;
+	@include breakpoint(tablet) {
+		float: left;
+		width: 40%;
+		margin-top: 0px;
+	}
 }
 .right-column-img {
-	background: url('http://placehold.it/300x300');
+	background: url('http://placehold.it/300x300') no-repeat;
 	width: 300px;
 	height: 300px;
 	display: block;
-	margin: $margin-section auto;
+	margin: 0 auto;
+	@include breakpoint(tablet) {
+		float: right;
+		width: 40%;
+	}
+}
+.slider-arrows{
+	text-align: center;
+	margin-top: 15px;
+	clear: both;
+	li {
+		display: inline-block;
+	}
+	i {
+		color: $theme-color;
+	}
+}
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
 }

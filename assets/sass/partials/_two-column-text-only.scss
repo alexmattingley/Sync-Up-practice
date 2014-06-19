@@ -1,14 +1,26 @@
 .two-column-text-only {
 	@include mobileCenter;
 	clear: both;
+	background: $theme-color;
+	color: $text-color-dos;
+	width: 100%;
+	padding: 40px;
+	@include breakpoint(tablet) {
+		padding: 100px 40px;
+	}
 	.left-column-text {
 		@include breakpoint(tablet) {
 			float: left;
 			width: 40%;
+			margin-top: 0;
+			margin-right: 60px;
+			height: 350px;
 		}
 	}
 	.right-column-text {
 		@include breakpoint(tablet) {
+			float: right;
+			width: 40%;
 		}
 	}	
 }
