@@ -22,6 +22,9 @@ body{
 #footer {
     @extend .container;
 }
+footer#footer {
+    width: 1200px;
+}
 
 // main container
 #main {
@@ -161,4 +164,10 @@ Taken from http://csswizardry.com/2011/10/the-island-object/) -- */
             @include third(2);
         }
     }
+}
+// Clearfix Hack
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
 }

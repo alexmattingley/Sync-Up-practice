@@ -8,13 +8,113 @@ footer {
 	a {
 		color: $text-color-three;
 	}
-}
-.footer-logo {
-	background: $logo-image;
-	height: 100px;
-	width: 350px;
-	display: block;
-}
-.footer-social-icons li {
-	display: inline-block;
+	.fa-envelope {
+		position: absolute;
+		margin-top: 5px;
+		margin-left: -30px;
+	}
+	.fa-phone {
+		position: absolute;
+		margin-top: -5px;
+		margin-left: -41px;
+	}
+	.fa-map-marker {
+		@extend .fa-envelope;
+		margin-left: -15px;
+	}
+	.footer-social-icons {
+		i {
+			color: $theme-color;
+		}
+		li {
+			display: inline-block;
+		}
+	}
+	.footer-logo {
+		background: $logo-image no-repeat;
+		height: 150px;
+		width: 100%;
+		display: inline-block;
+	}
+	.footer-submit {
+		i {
+			border-radius: 5px;
+		}
+	}
+	.footer-contact-info {
+		margin: 40px auto;
+	}
+	input {
+		width: 200px;
+		height: 43px;
+	}
+	@include breakpoint(phone) {
+		// ul.footer-content-rows {
+		// 	>li {
+		// 		display: inline-block;
+		// WHY IS THIS NOT WORKING?
+		// }
+		.fa-phone {
+			margin-top: 5px;
+			margin-left: -30px;
+		}
+		.fa-map-marker {
+			margin-left: -27px;
+		}
+		.footer-contact-info {
+			display: inline-block;
+			vertical-align: top;
+			margin: 0 auto;
+			text-align: left;
+			width: 40%;
+			ul {
+				padding-left: 35px; 
+			}
+		}
+		.footer-nav {
+			display: none;
+		}
+		.footer-submit {
+			display: inline-block;
+			vertical-align: top;
+			margin: 0 auto;
+			text-align: right;
+			width: 40%;
+		}
+	}
+	@include breakpoint(tablet) {
+		footer {
+			width: 100%;
+			padding: 2%; 
+		}
+		.footer-nav {
+			display: inline-block;
+			text-align: left;
+		}
+		.footer-contact-info, .footer-submit, .footer-nav {
+			width: 32%;
+			padding: 0 1%;
+		}
+		.footer-content-rows {
+			margin: 0 auto;
+		}
+	}
+	@include breakpoint(desktop) {
+		.footer-nav, .footer-contact-info {
+			width: 33%;
+			padding: 0 1%;
+			text-align: left;
+		}
+		.footer-submit {
+			text-align: right;
+			width: 33%;
+			padding: 0 1%;
+		}
+		.footer-logo {
+			width: 300px;
+		}
+		footer#footer {
+			width: 1200px;
+		}
+	}
 }
