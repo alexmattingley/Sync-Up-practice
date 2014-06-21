@@ -1,15 +1,40 @@
 .nav-collapse ul {
   margin: 0;
-  padding: 0;
   width: 100%;
   display: block;
   list-style: none;
 }
 
-// .nav-collapse li {
-//   width: 100%;
-//   display: block;
-// }
+
+.nav-collapse {
+  clear: both;
+  float: left;
+  li {
+    width: 100%;
+    display: block;
+  }
+  @include breakpoint(tablet) {
+    clear: none;
+    float: none;
+    li {
+      display: inline;
+    }
+  }
+}
+.nav-toggle {
+  background: url("../images/hamburger.png") no-repeat;
+  background-position: 0% 50%;
+  width: 20px;
+  height: 20px;
+  -webkit-background-size: 20px 20px;
+  color: transparent;;
+  display: inline-block;
+  float: right;
+  margin-left: 20px;
+  &:hover {
+    color: transparent;
+  }
+}
 
 .js .nav-collapse {
   clip: rect(0 0 0 0);

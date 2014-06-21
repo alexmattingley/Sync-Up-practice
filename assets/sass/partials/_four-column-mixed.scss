@@ -1,9 +1,9 @@
 .consulting-icon {
-	background: url('http://placehold.it/200x200');
+	background: url('http://placehold.it/200x200') no-repeat;
 	width: 200px;
 	height: 200px;
 	display: block;
-	margin: $margin-section auto;
+	margin: auto;
 }
 
 .educating-icon, .coaching-icon, .speaking-icon {
@@ -12,20 +12,24 @@
 
 .four-column-mixed {
 	@include mobileCenter;
+	li {
+		padding-top: 20%;
+	}
 	@include breakpoint(tablet) {
 		text-align: center;
-	}
-	@include breakpoint(desktop) {
-		width: 90%;
-	}
-	li {
-		@include breakpoint(tablet) {
+		li {
 			display: inline-block;
 			width: 40%;
 			vertical-align: top;
+			padding-top: 5%;
 		}
-		@include breakpoint(desktop) {
-			width: 23%;
+	}
+	@include breakpoint(desktop) {
+		width: 100%;
+		padding: 5%;
+		li {
+			width: 24%;
+			padding: 2%;
 		}
-	}	
+	}
 }

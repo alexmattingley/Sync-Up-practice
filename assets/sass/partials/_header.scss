@@ -12,3 +12,15 @@ $logo-image: url('http://placehold.it/300x150');
 .hero-banner {
 	clear: both;
 }
+.nav-collapse {
+	text-align: center;
+	@include breakpoint(tablet) {
+		li {
+			display: inline;
+		}
+		.main-menu {
+			text-align: right;
+		}
+	}
+}
+

@@ -39,6 +39,13 @@
 			easing: 'easeInOutCubic'
 		});
 		var nav = responsiveNav(".nav-collapse");
+		
+		$("#owl-demo").owlCarousel({
+	      navigation : true, // Show next and prev buttons
+	      slideSpeed : 300,
+	      paginationSpeed : 400,
+	      singleItem: true
+	  });
 	};
 
 	SCU.vertAlign = function() {

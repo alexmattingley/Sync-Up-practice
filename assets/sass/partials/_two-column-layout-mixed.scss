@@ -1,22 +1,21 @@
 .two-column-layout-mixed {
+	margin: auto;
+	background: $bg-color-two;
 	@include breakpoint(tablet) {
-		padding-left: 40px;
-		// height: 380px;
-		@include breakpoint(desktop) {
-			// height: 400px;
-		}
+		max-width: 1200px;
+		padding: 5%;
 	}
 }
 
 .left-col-img {
 	background: url('http://placehold.it/300x300');
-	width: 40%;
+	width: 300px;
 	height: 300px;
 	display: block;
-	margin: $margin-section auto;
+	margin: auto;
 	@include breakpoint(tablet) {
 		float: left;
-		margin: 0 60px 70px 60px;
+		width: 40%;
 		@include breakpoint(desktop) {
 			background: url('http://placehold.it/400x400') no-repeat;
 			height: 400px;

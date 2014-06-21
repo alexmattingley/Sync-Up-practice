@@ -1,6 +1,6 @@
  .banner-logo {
 	background: url(' http://placehold.it/50x50');
-	width: 50px;
+	width: 100px;
 	height: 50px;
 	display: block;
 	margin: 0 auto;
@@ -10,12 +10,8 @@
 	margin: $margin-section auto;
 	background: $theme-color;
 	color: $text-color-dos;
-	padding: 20px;
+	padding: 10%;
 	@include breakpoint(tablet) {
-		padding: 30px;
-	}
-	@include breakpoint(desktop) {
-		padding: 50px;
 	}
 
 	& ul li {

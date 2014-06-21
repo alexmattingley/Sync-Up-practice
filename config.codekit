@@ -508,6 +508,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/hamburger.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8290,
+		"inputAbbreviatedPath": "\/assets\/images\/hamburger.png",
+		"outputAbbreviatedPath": "\/assets\/images\/hamburger.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/assets\/images\/mediaelement\/jplayer.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -574,6 +585,754 @@
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/css\/bootstrapTheme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/css\/bootstrapTheme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/css\/custom.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/css\/custom.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/css\/responsive.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/css\/responsive.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/ico\/apple-touch-icon-114-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5673,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/ico\/apple-touch-icon-114-precomposed.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/ico\/apple-touch-icon-114-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/ico\/apple-touch-icon-144-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7907,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/ico\/apple-touch-icon-144-precomposed.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/ico\/apple-touch-icon-144-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/ico\/apple-touch-icon-57-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3058,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/ico\/apple-touch-icon-57-precomposed.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/ico\/apple-touch-icon-57-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/ico\/apple-touch-icon-72-precomposed.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3942,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/ico\/apple-touch-icon-72-precomposed.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/ico\/apple-touch-icon-72-precomposed.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/ico\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2165,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/ico\/favicon.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/ico\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/controls.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3126,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/controls.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/controls.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/css3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7776,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/css3.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/css3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/feather.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3913,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/feather.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/feather.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/grab.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3339,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/grab.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/grab.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/modern.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8114,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/modern.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/modern.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/multi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2459,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/multi.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/multi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/responsive.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2156,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/responsive.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/responsive.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/tons.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3726,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/tons.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/tons.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/touch.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3320,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/touch.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/touch.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/zombie.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5840,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/zombie.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/demo-slides\/zombie.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/img\/glyphicons-halflings-green.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15738,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/glyphicons-halflings-green.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/glyphicons-halflings-green.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/img\/glyphicons-halflings-white.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8777,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/glyphicons-halflings-white.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/glyphicons-halflings-white.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/img\/glyphicons-halflings.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12799,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/glyphicons-halflings.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/glyphicons-halflings.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/img\/owl-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8874,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/owl-logo.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/img\/owl-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/js\/application.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/js\/application.js",
+		"outputAbbreviatedPath": "\/assets\/js\/application-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/js\/bootstrap-collapse.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/js\/bootstrap-collapse.js",
+		"outputAbbreviatedPath": "\/assets\/js\/bootstrap-collapse-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/js\/bootstrap-tab.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/js\/bootstrap-tab.js",
+		"outputAbbreviatedPath": "\/assets\/js\/bootstrap-tab-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/js\/bootstrap-transition.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/js\/bootstrap-transition.js",
+		"outputAbbreviatedPath": "\/assets\/js\/bootstrap-transition-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/js\/google-code-prettify\/prettify.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/js\/google-code-prettify\/prettify.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/js\/google-code-prettify\/prettify.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/js\/google-code-prettify\/prettify.js",
+		"outputAbbreviatedPath": "\/assets\/js\/prettify-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/js\/google-code-prettify\/run_prettify.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/js\/google-code-prettify\/run_prettify.js",
+		"outputAbbreviatedPath": "\/assets\/js\/run_prettify-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/assets\/js\/jquery-1.9.1.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/assets\/js\/jquery-1.9.1.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/jquery-1.9.1.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/changelog.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/changelog.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 163675,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage1.jpg",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 149197,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage2.jpg",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 155634,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage3.jpg",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50895,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage4.jpg",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106252,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage5.jpg",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 119136,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage6.jpg",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 104748,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage7.jpg",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/fullimage7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27090,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl1.jpg",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 58799,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl2.jpg",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl3.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37374,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl3.jpg",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl3.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl4.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27756,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl4.jpg",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl4.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl5.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34388,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl5.jpg",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl5.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl6.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20136,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl6.jpg",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl6.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl7.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28345,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl7.jpg",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl7.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl8.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21166,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl8.jpg",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/assets\/owl8.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/autoHeight.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/autoHeight.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/click.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/click.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/custom.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/custom.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/customJson.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/customJson.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/full.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/full.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/images.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/images.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/itemsCustom.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/itemsCustom.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/json.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/json.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/lazyLoad.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/lazyLoad.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/manipulations.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/manipulations.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/navOnTop.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/navOnTop.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/navOnTop2.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/navOnTop2.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/one.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/one.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/owlStatus.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/owlStatus.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/progressBar.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/progressBar.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/randomOrder.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/randomOrder.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/scaleup.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/scaleup.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/sync.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/sync.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/demos\/transitions.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/demos\/transitions.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/owl-carousel\/grabbing.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 116,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/owl-carousel\/grabbing.png",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/owl-carousel\/grabbing.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/owl-carousel\/owl.carousel.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/owl-carousel\/owl.carousel.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/owl-carousel\/owl.carousel.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/owl-carousel\/owl.carousel.js",
+		"outputAbbreviatedPath": "\/assets\/js\/owl.carousel-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/owl-carousel\/owl.carousel.min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/owl-carousel\/owl.carousel.min.js",
+		"outputAbbreviatedPath": "\/assets\/js\/owl.carousel.min-ck.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/owl-carousel\/owl.theme.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/owl-carousel\/owl.theme.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/owl-carousel\/owl.transitions.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/owl-carousel\/owl.transitions.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/assets\/js\/plugins\/owl.carousel\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/README.md",
+		"outputAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/assets\/js\/plugins\/responsive-nav\/responsive-nav.min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -607,184 +1366,9 @@
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/assets\/js\/plugins\/slick-master\/css\/style.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/css\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/js\/plugins\/slick-master\/img\/fonz1.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 424390,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/fonz1.png",
-		"outputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/fonz1.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/js\/plugins\/slick-master\/img\/fonz2.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 244508,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/fonz2.png",
-		"outputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/fonz2.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/js\/plugins\/slick-master\/img\/fonz3.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 389865,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/fonz3.png",
-		"outputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/fonz3.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/js\/plugins\/slick-master\/img\/lazyfonz1.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 86726,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/lazyfonz1.png",
-		"outputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/lazyfonz1.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/js\/plugins\/slick-master\/img\/lazyfonz2.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 77774,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/lazyfonz2.png",
-		"outputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/lazyfonz2.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/js\/plugins\/slick-master\/img\/lazyfonz3.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 86125,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/lazyfonz3.png",
-		"outputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/lazyfonz3.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/js\/plugins\/slick-master\/img\/lazyfonz4.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 74865,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/lazyfonz4.png",
-		"outputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/lazyfonz4.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/js\/plugins\/slick-master\/img\/lazyfonz5.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 40742,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/lazyfonz5.png",
-		"outputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/lazyfonz5.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/js\/plugins\/slick-master\/img\/lazyfonz6.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 45690,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/lazyfonz6.png",
-		"outputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/img\/lazyfonz6.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/js\/plugins\/slick-master\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/js\/plugins\/slick-master\/js\/scripts.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/js\/scripts.js",
-		"outputAbbreviatedPath": "\/assets\/js\/scripts-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/js\/plugins\/slick-master\/slick\/slick.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/slick\/slick.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/js\/plugins\/slick-master\/slick\/slick.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/slick\/slick.js",
-		"outputAbbreviatedPath": "\/assets\/js\/slick-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/js\/plugins\/slick-master\/slick\/slick.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/slick\/slick.min.js",
-		"outputAbbreviatedPath": "\/assets\/js\/slick.min-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/js\/plugins\/slick-master\/slick\/slick.scss": {
-		"createSourceMap": 1,
-		"debugStyle": 0,
-		"decimalPrecision": 5,
-		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/plugins\/slick-master\/slick\/slick.scss",
-		"outputAbbreviatedPath": "\/assets\/css\/slick.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 1,
-		"useLibsass": 0
-		},
 	"\/assets\/js\/vendor\/jquery-2.0.3.min.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/js\/vendor\/jquery-2.0.3.min.js",
 		"outputAbbreviatedPath": "\/assets\/js\/jquery-2.0.3.min-ck.js",
@@ -2625,15 +3209,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/partials\/two-column-blog-snippet.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/partials\/two-column-blog-snippet.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/partials\/two-column-blog-snippet.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -2681,44 +3256,56 @@
 	"\/assets\/js\/app.js": [
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/vendor\/modernizr-2.7.1.min.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/vendor\/jquery-2.0.3.min.js",
 			"position": 0,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/fastclick.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/vendor\/modernizr-2.7.1.min.js",
 			"position": 1,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/retina.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/fastclick.js",
 			"position": 2,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/simpleAnchors.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/retina.js",
 			"position": 3,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/jquery.easing.min.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/simpleAnchors.js",
 			"position": 4,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/jquery.lazyload.min.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/jquery.easing.min.js",
 			"position": 5,
 			"type": 0
 			},
 		{
 			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/responsive-nav\/responsive-nav.min.js",
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/jquery.lazyload.min.js",
 			"position": 6,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/owl.carousel\/owl-carousel\/owl.carousel.min.js",
+			"position": 7,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/js\/plugins\/responsive-nav\/responsive-nav.min.js",
+			"position": 8,
 			"type": 0
 			}
 		]
