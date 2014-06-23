@@ -1,7 +1,10 @@
 .pdf-slider {
+	display: block;
 	margin: $margin-section auto;
 	@include breakpoint(tablet) {
-		width: 90%;
+		width: 100%;
+		padding-left: 5%;
+		padding-right: 5%;
 	}
 }
 
@@ -9,7 +12,7 @@
 	@include mobileCenter;
 	@include breakpoint(tablet) {
 		float: left;
-		width: 40%;
+		// width: 40%;
 		margin-top: 0px;
 	}
 }
@@ -21,7 +24,7 @@
 	margin: 0 auto;
 	@include breakpoint(tablet) {
 		float: right;
-		width: 40%;
+		// width: 40%;
 	}
 }
 .slider-arrows{
